@@ -38,15 +38,3 @@ Useful reading / tutorials for this project:
 [Mandelbrot Set Explained](http://xahlee.info/cmaci/fractal/mandelbrot.html)
 
 Wikipedia for both sets.
-
-## Screenshots
-
-![1](https://github.com/gymiyakawa/fractol/blob/master/Screenshots/Capture%20d%E2%80%99%C3%A9cran,%20le%202022-12-14%20%C3%A0%2017.47.07.png?raw=true)
-
-![2](https://github.com/gymiyakawa/fractol/blob/master/Screenshots/Capture%20d%E2%80%99%C3%A9cran,%20le%202022-12-20%20%C3%A0%2016.53.58.png?raw=true)
-
-![3](https://github.com/gymiyakawa/fractol/blob/master/Screenshots/Capture%20d%E2%80%99%C3%A9cran,%20le%202022-12-14%20%C3%A0%2017.49.15.png?raw=true)
-
-![4](https://github.com/gymiyakawa/fractol/blob/master/Screenshots/Capture%20d%E2%80%99%C3%A9cran,%20le%202022-12-20%20%C3%A0%2016.50.48.png?raw=true)
-
-![5](https://github.com/gymiyakawa/fractol/blob/master/Screenshots/Capture%20d%E2%80%99%C3%A9cran,%20le%202022-12-21%20%C3%A0%2011.03.01.png?raw=true)
